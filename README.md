@@ -19,12 +19,12 @@
 <tr>
 <td>
 
-- 🎓 Software Engineering student
-- 💻 Frontend developer who loves crafting clean, responsive and accessible UIs
-- 🌱 Currently learning: **TypeScript, Next.js, Testing**
-- 🔭 Working on: **my portfolio & side projects**
-- 🤝 Open to collaborate on open-source and web projects
-- ⚡ Fun fact: **I turn coffee into code ☕**
+-  Software Engineering student
+-  Frontend developer who loves crafting clean, responsive and accessible UIs
+-  Currently learning: **TypeScript, Next.js, Testing**
+-  Working on: **my portfolio & side projects**
+-  Open to collaborate on open-source and web projects
+-  Fun fact: **I turn coffee into code ☕**
 
 </td>
 </tr>
