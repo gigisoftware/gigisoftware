@@ -20,7 +20,7 @@
 <td>
 
 -  Software Engineering student
--  Frontend developer who loves crafting clean, responsive and accessible UIs
+-  Frontend developer who is passionate about Tech and loves crafting clean, responsive and accessible UIs
 -  Currently learning: **TypeScript, Next.js, Testing**
 -  Working on: **my portfolio & side projects**
 -  Open to collaborate on open-source and web projects
@@ -55,6 +55,7 @@
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
 
 </div>
+
 
 
 
